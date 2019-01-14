@@ -1,0 +1,16 @@
+{
+  "sheet": {
+    "name": "Easy-Prs-Documentation",
+    "header_rows": [["URL", "TITLE", "STATUS", "UPDATE-DATE"]]
+  },
+
+  "status": {
+    "ready_to_merge": "Reviewed - Ready to be merged",
+    "changes_needed": "Reviewed - Changes Needed",
+    "not_reviewed": "Reviewed - NEED REVIEW"
+  },
+
+  "repo": {
+    "name": "openMF/android-client"
+  }
+}

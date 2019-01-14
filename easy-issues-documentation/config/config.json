@@ -1,0 +1,25 @@
+{
+  "sheet": {
+    "name": "Issues-docs",
+    "header_rows": [["URL", "TITLE", "STATUS", "UPDATE-DATE"]],
+    "status": {
+      "colorize": false,
+      "open": {
+        "background_color": [0.18, 0.8, 0.44, 1.0]
+      },
+      "in_progress": {
+        "background_color": [0.2, 0.6, 0.86, 1.0]
+      },
+      "closed": {
+        "background_color": [0.91, 0.3, 0.24, 1.0]
+      },
+      "multiple_prs": {
+        "background_color": [0.17, 0.24, 0.31, 1.0]
+      }
+    }
+  },
+
+  "repo": {
+    "name": "letelete/sleep-cycle-alarm"
+  }
+}
