@@ -1,4 +1,4 @@
-<h1 align="center"><a href="" alt="GitHub release"><img src="https://i.imgur.com/i9L0E4Z.gif" /></a></h1>>
+<h1 align="center"><a href="" alt="GitHub release"><img src="https://i.imgur.com/i9L0E4Z.gif" /></a></h1>
 <h2 align="center"><b>Easy Issues Documentation</b></h2>
 <h4 align="center">Python script to create a documentation for issues status in repository. Made for Google Code-In 2018</h4>
 
